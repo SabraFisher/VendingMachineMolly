@@ -18,7 +18,7 @@ int main()
 			cout << "Enjoy your Soda!" << endl;
             break;
         }
-    } while (choice != 4);
+    } while (choice != 8);
     cout << "Thank you for Choosing VendByMo!" << endl;
     return 0;
 }
