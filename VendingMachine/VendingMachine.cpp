@@ -9,28 +9,28 @@ int main()
         cin >> choice;
         switch (choice) {
         case 1:
-            cout << "Enjoy your chips!" << endl;
+            cout << "Enjoy your chips!\n" << endl;
             break;
         case 2:
-            cout << "Enjoy your Candy!" << endl;
+            cout << "Enjoy your Candy!\n" << endl;
             break;
         case 3:
-            cout << "Enjoy your Soda!" << endl;
+            cout << "Enjoy your Soda!\n" << endl;
             break;
         case 4:
-            cout << "Enjoy your Gum!" << endl;
+            cout << "Enjoy your Gum!\n" << endl;
             break;
         case 5:
-            cout << "Enjoy your Water!" << endl;
+            cout << "Enjoy your Water!\n" << endl;
             break;
         case 6:
-            cout << "Enjoy your Mint!" << endl;
+            cout << "Enjoy your Mint!\n" << endl;
             break;
         case 7:
-            cout << "Enjoy your Cookie!" << endl;
+            cout << "Enjoy your Cookie!\n" << endl;
             break;
         case 8:
-            cout << "Goodbye!" << endl;
+            cout << "Goodbye!\n" << endl;
             break;
         default:
             cout << "Invalid choice. Please try again." << endl;
