@@ -5,7 +5,7 @@ int main()
 {
     int choice;
     do {
-        cout << "Menu:\n1. Chips\n2. Candy\n3. Soda\n4. Gum\n5. Water\n6. Mint\n7. Cookie\n8. Exit\n\nEnter your choice: ";
+        cout << "VendByMo Menu:\n  1. Chips\n  2. Candy\n  3. Soda\n  4. Gum\n  5. Water\n  6. Mint\n  7. Cookie\n  8. Exit\n\nEnter your choice: ";
         cin >> choice;
         switch (choice) {
         case 1:
