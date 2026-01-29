@@ -9,16 +9,17 @@ int main()
         cin >> choice;
         switch (choice) {
         case 1:
-            cout << "Enjoy your chips!" << endl;
+            cout << "Enjoy your Chips!" << endl;
             break;
         case 2:
             cout << "Enjoy your Candy!" << endl;
             break;
         case 3:
 			cout << "Enjoy your Soda!" << endl;
+            break;
         }
     } while (choice != 4);
-    cout << "Thank you for Chosing VendByMo!" << endl;
+    cout << "Thank you for Choosing VendByMo!" << endl;
     return 0;
 }
 
